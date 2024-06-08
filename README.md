@@ -20,4 +20,4 @@ Here's how to count how many words are in your EWOW response.
   python get_word_count.py "CatBat - ? 456 two-words two words ### Try.to.cheat BLAH"\
   That response is 7 words.
   ```
-* If EWOWers try to skirt the rules like the response above, and the voting videos claim it has "11 words" when it really looks like 20, I'm calling on voters to have some common sense and vote that response down for not being honest!
+* What if EWOWers try to skirt the rules like the response above, and the voting videos claim it has "11 words" when it really looks like 20? In that case, I'm calling on voters to have common sense and vote that response down! They're not being honest players, so they should not be rewarded.
