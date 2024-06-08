@@ -1,5 +1,5 @@
 # ewow_public_tools
-Various tools for EWOW! (like word counter)
+Various tools for EWOW!
 
 # Word Counter
 Here's how to count how many words are in your EWOW response.
